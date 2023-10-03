@@ -1,3 +1,4 @@
+![Logo](https://github.com/ANGADJEET/ANGADJEET/blob/main/image%20(1).png)
 # 💫 About Me:
 🔭 I am currently developing a K-Nearest Neighbors (KNN) algorithm visualizer and working on an OpenCV project to enhance my skills in computer vision.<br><br>👯 I am actively seeking collaboration opportunities in the fields of Machine Learning and Web Development, with a passion for combining the two for innovative projects.<br><br>🤝 I am looking for mentorship and assistance in deploying machine learning models and delving into advanced ML algorithms to deepen my expertise.<br><br>🌱 My ongoing learning journey includes mastering computer vision, honing my skills in systems programming, and becoming a proficient full-stack developer.<br><br>💬 Feel free to reach out to me if you have questions or need assistance with coding challenges, algorithms, or development projects.<br><br>⚡ Fun fact: I write code and immerse myself in books as a way to escape reality and continuously improve my coding skills.
 
@@ -14,9 +15,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ANGADJEET&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ANGADJEET&icon=0&color=0)](https://visitcount.itsvg.in)
