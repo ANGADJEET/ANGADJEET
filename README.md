@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Angad</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right"alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-# 💫 About Me:
-🔭 I am currently developing a K-Nearest Neighbors (KNN) algorithm visualizer and working on an OpenCV project to enhance my skills in computer vision.<br><br>👯 I am actively seeking collaboration opportunities in the fields of Machine Learning and Web Development, with a passion for combining the two for innovative projects.<br><br>🤝 I am looking for mentorship and assistance in deploying machine learning models and delving into advanced ML algorithms to deepen my expertise.<br><br>🌱 My ongoing learning journey includes mastering computer vision, honing my skills in systems programming, and becoming a proficient full-stack developer.<br><br>💬 Feel free to reach out to me if you have questions or need assistance with coding challenges, algorithms, or development projects.<br><br>⚡ Fun fact: I write code and immerse myself in books as a way to escape reality and continuously improve my coding skills.
-📫 How to reach me **angadjeet22071@iiitd.ac.in**
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+## **About Me:**
+
+🔭 I am currently developing a K-Nearest Neighbors (KNN) algorithm visualizer and working on an OpenCV project to enhance my skills in computer vision.<br><br>
+👯 I am actively seeking collaboration opportunities in the fields of Machine Learning and Web Development, with a passion for combining the two for innovative projects.<br><br>
+🤝 I am looking for mentorship and assistance in deploying machine learning models and delving into advanced ML algorithms to deepen my expertise.<br><br>
+🌱 My ongoing learning journey includes mastering computer vision, honing my skills in systems programming, and becoming a proficient full-stack developer.<br><br>
+💬 Feel free to reach out to me if you have questions or need assistance with coding challenges, algorithms, or development projects.<br><br>
+⚡ Fun fact: I write code and immerse myself in books as a way to escape reality and continuously improve my coding skills.
+
+**How to reach me:** angadjeet22071@iiitd.ac.in
 
 
 ## 🌐 Socials:
