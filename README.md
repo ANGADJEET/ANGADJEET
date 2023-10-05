@@ -9,7 +9,7 @@
 🤝 I am looking for mentorship and assistance in deploying machine learning models and delving into advanced ML algorithms to deepen my expertise.<br><br>
 🌱 My ongoing learning journey includes mastering computer vision, honing my skills in systems programming, and becoming a proficient full-stack developer.<br><br>
 💬 Feel free to reach out to me if you have questions or need assistance with coding challenges, algorithms, or development projects.<br><br>
-⚡ Fun fact: I write code and immerse myself in books as a way to escape reality and continuously improve my coding skills.
+⚡ Fun fact: I write code and immerse myself in books as a way to escape reality.
 
 **How to reach me:** angadjeet22071@iiitd.ac.in
 
