@@ -4,7 +4,7 @@
 
 ## About Me
 
-Passionate software developer with a strong foundation in Data Structures, Algorithms, and Full Stack Development. Currently engaged in ML research for molecular toxicity prediction and developing safety-focused APIs for autonomous systems.
+Passionate software developer with a strong foundation in Data Structures, Algorithms, and Development. Currently engaged in ML research for molecular toxicity prediction and developing safety-focused APIs for autonomous systems.
 
 ## 🔬 Research Interests
 
